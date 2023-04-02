@@ -1,0 +1,8 @@
+kc2fj
+1-For this exercice you will have to write the password in a symbolum.txt file. | rot 10
+2- k . |  Base64
+3- C . | rot23
+4- 2 . | ascii
+5-CONGRATULATIONS ON DECODING THIS MESSAGE. ONCE THE DECODING IS THOROUGH, PLEASE PROCEED TO THE NEXT INSTRUCTION LINE. | NATO phonetic alphabet
+6-F | leetspeak
+7-J . | been encoded using a simple substitution cipher where each letter has been replaced by another letter in a consistent way.

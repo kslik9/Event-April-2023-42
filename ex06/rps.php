@@ -1,11 +1,12 @@
 <?php
-function selectRandomNumber() {
+function random() 
+{
     return rand(1, 3);
-  }
+}
 echo "please select rock, paper or scissors :";
 #rock == 1 / paper == 2 / scissors == 3
 $choice = trim(fgets(STDIN));
-$r = selectRandomNumber();
+$r = random();
 
 if($r == 1 && $choice == "rock" || $r == 2 && $choice == "paper" || $r == 3 && $choice == "scissors")
     echo "a draw the computer chose $choice";
